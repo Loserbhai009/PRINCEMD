@@ -1,6 +1,6 @@
-name: princemd
+name: LOSER-007
 services:
-  - name: prince-md-service
+  - name: LOSER-007
     type: web
     ports:
       - 3000
@@ -10,7 +10,7 @@ services:
       type: docker
       dockerfile: ./Dockerfile
     env:
-      - OWNERS=923092668108;❣️DASTAGEER
+      - OWNERS=923251039272;❣️LOSER
       - MODE=public
       - PREFIX=""
       - antidelete=false
@@ -23,11 +23,11 @@ services:
       - BOT_NAME=PRINCE-MD
       - PACK_NAME="Princebot🎗️❣️"
       - DL_MSG="_📥-------- *DOWNLOADED SUCCESSFULLY* --------📥_"
-      - STATUSVIEW=false
+      - STATUSVIEW=true 
       - Status_Saver=false
       - REJECTSCALLS=false
-      - AutoReaction=false
-      - SESSION_ID="" # Add your session ID here
+      - AutoReaction=true
+      - SESSION_ID="Prince~AkYQwLAa#VBAACtVutvvnFH3QrgW35TFv-IWSWbsh3xI6z0LhrnE" # Add your session ID here
     regions:
       - fra
       - sin
