@@ -104,7 +104,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": "Prince~AkYQwLAa#VBAACtVutvvnFH3QrgW35TFv-IWSWbsh3xI6z0LhrnE"
+      "value": "Prince~NgJjELyZ#YSO_ArU_Hv_x_9fJCXUCcjDuPYdUhxZgRPjlRiAkrV8"
     }
   },
   "buildpacks": [
