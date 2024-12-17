@@ -14,7 +14,7 @@
     "OWNER_NUMBER": {
       "description": "put your Number as Owner",
       "required": true,
-      "value": "923092668108;❣️DASTAGEER"
+      "value": "923251039272;❣️Loser"
     },
     "MODE": {
       "description": "mode public or private",
@@ -29,17 +29,17 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ANTI_LINK": {
       "description": "make true false to ON/OFF antilink",
       "required": false,
-      "value": "false"
+      "value": "true"
     
     },
     "STATUS_REPLY": {
@@ -55,17 +55,17 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-MD"
+      "value": "LOSER-007"
     },
     "REJECTSCALLS": {
       "description": "reject calls",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "PACK_NAME": {
       "description": "put your stickers pack name",
       "required": false,
-      "value": "Princebot🎗️❣️"
+      "value": "loser🎗️❣️"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
@@ -75,7 +75,7 @@
     "STATUSVIEW": {
       "description": "make it true to auto view status and likes",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
